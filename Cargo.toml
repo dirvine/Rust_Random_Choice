@@ -1,4 +1,6 @@
+cargo-features = ["edition"]
 [package]
+edition = '2018'
 name = "random_choice"
 version = "0.3.2"
 authors = ["Stefano Di Martino <stefano.d@posteo.de>"]
