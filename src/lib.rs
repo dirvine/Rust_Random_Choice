@@ -56,6 +56,7 @@
 //! }
 //! ```
 
+#![feature(rust_2018_preview)]
 extern crate rand;
 
 use self::rand::{thread_rng, ThreadRng, Rng};
